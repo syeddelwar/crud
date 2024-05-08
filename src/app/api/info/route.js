@@ -1,6 +1,6 @@
 import { createEdgeRouter } from "next-connect";
-
 import { postInfo } from "@/app/controlloers/info.cont";
+
 
 const router = createEdgeRouter();
 
